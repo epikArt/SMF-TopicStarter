@@ -12,7 +12,7 @@
 <package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
 	<id>digger:TopicStarter</id>
 	<name>TopicStarter Mod</name>
-	<version>1.7</version>
+	<version>1.8</version>
 	<type>modification</type>
 	<install for="1.0 - 1.1.99">
  		<readme type="inline">This mod adds a Topic Starter icon near member name in Topic Display.</readme>
@@ -21,7 +21,7 @@
 		<modification>languages.utf-8.xml</modification>
 		<require-file name="topic_starter.gif" destination="$themedir/images" />
 	</install>
-	<install for="2.0 - 2.0.99">
+	<install for="2.0 - 2.1.99">
  		<readme type="inline">This mod adds a Topic Starter icon near member name in Topic Display.</readme>
 		<modification>modification2.xml</modification>
 		<modification>languages.xml</modification>
@@ -35,7 +35,7 @@
 		<modification reverse="true">languages.utf-8.xml</modification>
 		<remove-file name="$themedir/images/topic_starter.gif" />
 	</uninstall>
-	<uninstall for="2.0 - 2.0.99">
+	<uninstall for="2.0 - 2.1.99">
 		<readme type="inline">This will remove TopicStarter mod</readme>
 		<modification reverse="true">modification2.xml</modification>
 		<modification reverse="true">languages.xml</modification>
