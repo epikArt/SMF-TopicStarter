@@ -11,18 +11,18 @@
 
 <package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
 	<id>digger:TopicStarter</id>
-	<name>TopicStarter Mod</name>
+	<name>TopicStarter</name>
 	<version>1.8</version>
 	<type>modification</type>
 	<install for="1.0 - 1.1.99">
- 		<readme type="inline">This mod adds a Topic Starter icon near member name in Topic Display.</readme>
+ 		<readme type="inline">This mod show little icon near member name in all topic author's posts in a topic.</readme>
 		<modification>modification1.xml</modification>
 		<modification>languages.xml</modification>
 		<modification>languages.utf-8.xml</modification>
 		<require-file name="topic_starter.gif" destination="$themedir/images" />
 	</install>
 	<install for="2.0 - 2.1.99">
- 		<readme type="inline">This mod adds a Topic Starter icon near member name in Topic Display.</readme>
+ 		<readme type="inline">This mod show little icon near member name in all topic author's posts in a topic.</readme>
 		<modification>modification2.xml</modification>
 		<modification>languages.xml</modification>
 		<modification>languages.utf-8.xml</modification>
