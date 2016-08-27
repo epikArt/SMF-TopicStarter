@@ -12,7 +12,7 @@
 <package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
 	<id>digger:TopicStarter</id>
 	<name>TopicStarter</name>
-	<version>1.8</version>
+	<version>1.8.1</version>
 	<type>modification</type>
 	<install for="1.0 - 1.1.99">
  		<readme type="inline">This mod show little icon near member name in all topic author's posts in a topic.</readme>
